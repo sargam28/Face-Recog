@@ -15,7 +15,8 @@
 
 
     
-<!-- TABLE OF CONTENTS -->
+    
+    
 <details open="open">
   <summary>About the project</summary>
   <ol>
@@ -49,7 +50,9 @@
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
+
+
+
 
 ## About The Project
 * Face Recognition System built during the Microsoft Engage 2022. 
@@ -69,7 +72,9 @@ A facial recognition system is a technology capable of matching a human face fro
 ### Linking the two worlds
 Using the latest technologies , I have linked the two worlds of Psychology and Technology and built a project on Technology based Physiognomy.
 
-<!-- AGILE METHODOLOGY -->
+
+
+
 ## Aim of project
 
 ### Evaluation of the traits of an indivisual
@@ -84,7 +89,10 @@ Based on the facial structure of the user , the traits of that person is evaluat
 
 Above traits are evaluated , and on the basis of their percentages , an overall personality and nature of the person is given.
 
-<!-- INSTALLATIONS -->
+
+
+
+
 
 ## Inputs taken by project
 The project evaluates on the following two criterias :
@@ -99,7 +107,9 @@ are taken input because they play an imprtant role in evaluation
 An image on the face is required that is clearly visible.
 
 
-<!-- APP TUTORIAL-->
+
+
+
 ## Navigating Through The App
 ### Steps Undertaken
 
@@ -119,10 +129,11 @@ image
 
 image
 
-<!-- ACKNOWLEDGEMENTS -->
+
+
 
 ## Resources Used
 
 * [Theories regarding Physiognomy](https://www.britannica.com/topic/physiognomy-divination)
-* [Face Recognition Technology](https://youtu.be/rr_Zd16dql0)
+* [Face Recognition Technology](https://www.kaspersky.com/resource-center/definitions/what-is-facial-recognition)
 
