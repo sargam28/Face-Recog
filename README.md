@@ -35,7 +35,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Inputs taken by project</a>
+      <a href="#inputs-taken-by-project">Inputs taken by project</a>
       <ul>
         <li><a href="#basic-details">Basic Details</a></li>
         <li><a href="#a-clear-face-image">A clear Face Image</a> </li> </ul>
@@ -52,113 +52,72 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-* Microsoft Teams clone project built during Microsoft Engage 2021 program. 
-* It is a video call and chat application through which we can chat before, during and after a video call. 
-* The video call can take place between maximum 2 people at once.
+* Face Recognition System built during the Microsoft Engage 2022. 
+* It deals with the application of the technology of the Face Recognition. 
+* It takes image of an indivisual as input , and tells their personality as an output.
 
 ### What is physiognomy
-* User authentication using Firebase and login via Google and Facebook
-* Creating and deleting chat groups, adding and removing people by the group admin, photo sharing, chat text formatting, read receipts, typing status of users
-* One-on-one video call with randomly generated unique link and the ability to mute and unmute audio and video during the call
+* The art of discovering temperament and character from outward appearance of an indivisual.
+<h1 align="center">
+  
+ <img src="readme images/physiognomy.jpeg" alt="Logo" width="325" height="325">
+    </h1>
 
 ### About Face recognition
-Laptops, Desktops and Tablet PCs
+A facial recognition system is a technology capable of matching a human face from a digital image or a video frame against a database of faces. 
 
 ### Linking the two worlds
-
-### Video Call Application: 
-* ![Front-end][front-end-shield]
-* ![Back-end][back-end-shield]
-* ![Tools][tools-shield]
-
-### Chat Application: 
-* ![Front-end][front-end-shield-1]
-* ![Back-end][back-end-shield-1]
-* ![Tools][tools-shield-1]
+Using the latest technologies , I have linked the two worlds of Psychology and Technology and built a project on Technology based Physiognomy.
 
 <!-- AGILE METHODOLOGY -->
 ## Aim of project
 
 ### Evaluation of the traits of an indivisual
 
-Agile is a development methodology adopted today in the software industry. Agile promotes teamwork, flexible procedures, and sle-organizing teams.
-
+Based on the facial structure of the user , the traits of that person is evaluated. Total 5 traits are used -
+* Openness
+* Conciountiousness
+* Extrovertism
+* Neuroticism
+* Agreeableness
 ### Determinition of overall personality
 
-SCRUM is a subset of Agile, a framework for developing software. SCRUM takes advantage of different techniques to achieve goals in Agile. SCRUM promotes an iterative model where the planning is performed on a very short term. The basic time working unit is the sprint. SCRUM teams always reason in sprints and their planning is limited to sprints.
-
-* Sprint 1 (June 14): Sprint Planning, Research and Design - Researching about various video call libraries and SDKs that can be used to make a video call app with a minimum functionality to have a call between 2 people. After finalizing webRTC for making the video call app, I searched for tutorials, designed a wireframe including the functionalities I want and designed the UI.
-
-* Sprint 2 (June 21): Software development and debugging - Started the development process by taking help from YouTube tutorials. Built a web application using React JS and Node JS for the first time. Encountered occasional bugs which I debugged timely. Made required changes in the UI and color scheme to make it more eye pleasing
-
-* Sprint 3 (July 5): Adapting the surprise feature, debugging and adding additional features - My detailed research made it easy for me to decide how to implement the surprise 'adapt' feature. Decided to build a chat app using React JS and Chat Engine and link my previous video call application to the new chat application. Made changes in pre-loaded styles to complement the color scheme of the video call app and added sign in authentication using Firebase. Also added mute audio and video function in the video call application.
+Above traits are evaluated , and on the basis of their percentages , an overall personality and nature of the person is given.
 
 <!-- INSTALLATIONS -->
 
-## Getting Started
-To install and run the project on your local system, following are the requirements:
+## Inputs taken by project
+The project evaluates on the following two criterias :
 ### Basic Details
-Make sure to install the required dependencies via node package manager
-```sh
-  npm install npm@latest -g
-```
+Basic details like -
+* Age
+* Zodiac Sign
+* Profession
+are taken input because they play an imprtant role in evaluation
 ### A clear Face Image
 
-* Video Call Application
+An image on the face is required that is clearly visible.
 
-To separately run the video call application on your local host, perform the following steps:
 
-Run the following commands to start the server side.
-
-```sh
-  npm install && npm start
-```
-Run the following commands to start the client side and run it on your local host
-```sh
-  cd client
-```
-```sh
-  npm install && npm start
-```
-
-* Chat Application
-
-Run the following commands to start the application on your local host
-
-```sh
-  npm install && npm start
-```
 <!-- APP TUTORIAL-->
 ## Navigating Through The App
 ### Steps Undertaken
 
-Login to the chat application via Google or Facebook. If an email id is linked with both Google and Facebook, then sign in can be done with wither via Google or Facebook.
+4 step procedure is followed by the app -
+* Enter Details
+* Upload your Picture
+* Face Recogniton
+* Result shown
 
-<img src="Images/Login-Screen.png" alt="login screen" width="700"/>
+
 
 ### Illustrations
 
-After logging in, a blank chat window appears. Start a new chat by clicking on the + sign. A video call can be placed by clicking the 'Video Call' option in the navigation bar. Adjacent to it is the logout option.
-
-<img src="Images/Blank-Chat-Window.png" alt="blank chat window" width="700"/>
-
-All the users registered with the app can be added to your chat. Photo sharing, read receipts, formatting the text, and many other things are possible in the chat. The shared photos can be viewed in the right pane. The chat can be deleted by expanding the 'Options' menu in the right pane and clicking the 'Delete' option.
-
-<img src="Images/New-Chat.png" alt="new chat" width="700"/>
+image 
 
 ### Trial
 
-The video call welcome screen shows your video and has a form to enter your name. To place a call, click on 'Copy your ID' and send the random generated unique ID to the person you want to call. 
-
-<img src="Images/Video-Call-Welcome-Screen.png" alt="video call welcome screen" width="700"/>
-
-The person who received the ID needs to copy that in the 'ID to call' input field and click on 'Call' button. You can accept the person's incoming call by clicking on 'Answer' button.
-
-<img src="Images/Placing-Call.png" alt="placing call" width="700"/>
-
-Once the call is accepted, the users are connected and can video call seamlessly with the option to mute audio and video when required. The call can be stopped by clicking on 'Hang Up' button. The video call screen closes and we are navigated back to the chat window.
-
-<img src="Images/Video-Call-2-people.png" alt="video call between 2 people" width="700"/>
+image
 
 <!-- ACKNOWLEDGEMENTS -->
 
