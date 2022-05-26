@@ -18,7 +18,7 @@
     
     
 <details open="open">
-  <summary>About the project</summary>
+  <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
