@@ -1,10 +1,14 @@
-<h1 align="center">Microsoft Teams Clone 
-  <img src="[[![facerecogicon](https://user-images.githubusercontent.com/89294641/170477303-d3067da9-2e4b-44b8-94de-0622afa1f76a.jpeg)](https://github.com/sargam28/Face-Recog/blob/main/readme%20images/facerecogicon.jpeg)](https://www.google.com/imgres?imgurl=https%3A%2F%2Ficon-library.com%2Fimages%2Ffacial-recognition-icon%2Ffacial-recognition-icon-26.jpg&imgrefurl=https%3A%2F%2Ficon-library.com%2Ficon%2Ffacial-recognition-icon-26.html&tbnid=-jTAMZjRmyI49M&vet=12ahUKEwiQvoPkhP33AhWWgGMGHUv3A6AQMygeegUIARC1Ag..i&docid=lDFwwn1pjpkWAM&w=320&h=320&q=face%20recognition%20icon&ved=2ahUKEwiQvoPkhP33AhWWgGMGHUv3A6AQMygeegUIARC1Ag)
-" alt="Logo" width="25" height="25">
+<h1 align="center">Face Recognition System
 </h1>
-
+  <h1 align="center">
+  
+ <img src="https://icon-library.com/images/facial-recognition-icon/facial-recognition-icon-26.jpg" alt="Logo" width="65" height="65">
+    </h1>
+    
+    
+    
 <p align="center">
- <a target="_blank" href="https://microsoft-teams-engage.netlify.app/">Link to the App</a>
+ <a target="_blank" href="https://physioface.netlify.app/">Link to the App</a>
     |
  <a target="_blank" href="https://youtu.be/O7uGtnhZe2s">Video Demo</a>
 </p>
