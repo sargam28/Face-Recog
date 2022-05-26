@@ -31,7 +31,7 @@
     <li>
       <a href="#aim-of-project">Aim of project</a>
       <ul>
-        <li><a href="#evaluation-of-the-traits-of-an-indivisual">Evaluation of the traits of an indivisual</a></li>
+        <li><a href="#evaluation-of-the-traits-of-an-indivisual">Evaluation of the traits of an individual</a></li>
         <li><a href="#determinition-of-overall-personality">Determinition of overall personality</a></li>
       </ul>
     </li>
