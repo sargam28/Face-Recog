@@ -2,47 +2,48 @@
 </h1>
   <h1 align="center">
   
- <img src="https://icon-library.com/images/facial-recognition-icon/facial-recognition-icon-26.jpg" alt="Logo" width="65" height="65">
+ <img src="readme images/facerecogicon.jpeg" alt="Logo" width="65" height="65">
     </h1>
-    
-    
+     
     
 <p align="center">
  <a target="_blank" href="https://physioface.netlify.app/">Link to the App</a>
     |
- <a target="_blank" href="https://youtu.be/O7uGtnhZe2s">Video Demo</a>
+ <a target="_blank" href="https://youtu.be/O7uGtnhZe2s">Video Explanation</a>
 </p>
+
+
+
     
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>About the project</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#salient-features">Salient Features</a></li>
-        <li><a href="#compatible-platforms">Compatible Platforms</a></li>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#what-is-physiognomy">What is physiognomy?</a></li>
+        <li><a href="#about-face-recognition">About Face recognition</a></li>
+        <li><a href="#linking-the-two-worlds">Linking the two worlds</a></li>
       </ul>
     </li>
     <li>
-      <a href="#agile-methodology">Agile Methodology</a>
+      <a href="#aim-of-project">Aim of project</a>
       <ul>
-        <li><a href="#what-is-agile">What is Agile</a></li>
-        <li><a href="#how-i-incorporated-agile-methodology-during-the-development-cycle">How I Incorporated Agile Methodology During The Development Cycle</a></li>
+        <li><a href="#evaluation-of-the-traits-of-an-indivisual">Evaluation of the traits of an indivisual</a></li>
+        <li><a href="#determinition-of-overall-personality">Determinition of overall personality</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Inputs taken by project</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#navigating-through-the-app">Navigating through the App</a></li><ul>
-        <li><a href="#login">Login</a></li>
-        <li><a href="#chat-window">Chat Window</a></li>
-        <li><a href="#video-call">Video Call</a></li>
+        <li><a href="#basic-details">Basic Details</a></li>
+        <li><a href="#a-clear-face-image">A clear Face Image</a> </li> </ul>
+        </li>
+    <li><a href="#navigating-through-the-app"> Quick Navigation through the App</a></li><ul>
+        <li><a href="#steps-undertaken">Steps Undertaken</a></li>
+        <li><a href="#illustrations">Illustrations</a></li>
+        <li><a href="#trial">Trial</a></li>
       </ul>
     <li><a href="#resources-used">Resources Used</a></li>
   </ol>
@@ -55,15 +56,15 @@
 * It is a video call and chat application through which we can chat before, during and after a video call. 
 * The video call can take place between maximum 2 people at once.
 
-### Salient Features
+### What is physiognomy
 * User authentication using Firebase and login via Google and Facebook
 * Creating and deleting chat groups, adding and removing people by the group admin, photo sharing, chat text formatting, read receipts, typing status of users
 * One-on-one video call with randomly generated unique link and the ability to mute and unmute audio and video during the call
 
-### Compatible Platforms
+### About Face recognition
 Laptops, Desktops and Tablet PCs
 
-### Built With
+### Linking the two worlds
 
 ### Video Call Application: 
 * ![Front-end][front-end-shield]
@@ -76,13 +77,13 @@ Laptops, Desktops and Tablet PCs
 * ![Tools][tools-shield-1]
 
 <!-- AGILE METHODOLOGY -->
-## Agile Methodology
+## Aim of project
 
-### What is Agile
+### Evaluation of the traits of an indivisual
 
 Agile is a development methodology adopted today in the software industry. Agile promotes teamwork, flexible procedures, and sle-organizing teams.
 
-### How I Incorporated Agile Methodology During The Development Cycle
+### Determinition of overall personality
 
 SCRUM is a subset of Agile, a framework for developing software. SCRUM takes advantage of different techniques to achieve goals in Agile. SCRUM promotes an iterative model where the planning is performed on a very short term. The basic time working unit is the sprint. SCRUM teams always reason in sprints and their planning is limited to sprints.
 
@@ -96,12 +97,12 @@ SCRUM is a subset of Agile, a framework for developing software. SCRUM takes adv
 
 ## Getting Started
 To install and run the project on your local system, following are the requirements:
-### Prerequisites
+### Basic Details
 Make sure to install the required dependencies via node package manager
 ```sh
   npm install npm@latest -g
 ```
-### Installation
+### A clear Face Image
 
 * Video Call Application
 
@@ -129,13 +130,13 @@ Run the following commands to start the application on your local host
 ```
 <!-- APP TUTORIAL-->
 ## Navigating Through The App
-### Login
+### Steps Undertaken
 
 Login to the chat application via Google or Facebook. If an email id is linked with both Google and Facebook, then sign in can be done with wither via Google or Facebook.
 
 <img src="Images/Login-Screen.png" alt="login screen" width="700"/>
 
-### Chat Window
+### Illustrations
 
 After logging in, a blank chat window appears. Start a new chat by clicking on the + sign. A video call can be placed by clicking the 'Video Call' option in the navigation bar. Adjacent to it is the logout option.
 
@@ -145,7 +146,7 @@ All the users registered with the app can be added to your chat. Photo sharing, 
 
 <img src="Images/New-Chat.png" alt="new chat" width="700"/>
 
-### Video Call
+### Trial
 
 The video call welcome screen shows your video and has a form to enter your name. To place a call, click on 'Copy your ID' and send the random generated unique ID to the person you want to call. 
 
