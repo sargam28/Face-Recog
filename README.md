@@ -38,8 +38,8 @@
     <li>
       <a href="#inputs-taken-by-project">Inputs taken by project</a>
       <ul>
-        <li><a href="#basic-details">Basic Details</a></li>
-        <li><a href="#a-clear-face-image">A clear Face Image</a> </li> </ul>
+        <li><a href="#basic-details">Basic Details & face image</a></li>
+        </ul>
         </li>
     <li><a href="#navigating-through-the-app"> Quick Navigation through the App</a></li><ul>
         <li><a href="#steps-undertaken">Steps Undertaken</a></li>
@@ -71,9 +71,10 @@ A facial recognition system is a technology capable of matching a human face fro
 
 ### Linking the two worlds
 Using the latest technologies , I have linked the two worlds of Psychology and Technology and built a project on Technology based Physiognomy.
-
-
-
+<!-- <h1 align="center">
+ <img src="readme images/Screenshot 2022-05-26 at 6.45.02 PM.png" alt="Logo" width="425" height="125">
+    </h1>
+ -->
 
 ## Aim of project
 
@@ -101,10 +102,12 @@ Basic details like -
 * Age
 * Zodiac Sign
 * Profession
-are taken input because they play an imprtant role in evaluation
-### A clear Face Image
+* Clear face image
 
-An image on the face is required that is clearly visible.
+
+<h1 align="center">
+ <img src="readme images/inputs.png" alt="Logo" width="725">
+    </h1>
 
 
 
@@ -119,15 +122,24 @@ An image on the face is required that is clearly visible.
 * Face Recogniton
 * Result shown
 
-
+<h1 align="center">
+ <img src="readme images/steps.png" alt="Logo" width="725">
+    </h1>
 
 ### Illustrations
 
-image 
-
+<h1 align="center">
+ <img src="readme images/example.png" alt="Logo" width="725">
+    </h1>
+    <h1 align="center">
+ <img src="readme images/example2.png" alt="Logo" width="725">
+    </h1>
+    
 ### Trial
-
-image
+<h1 align="center">
+ <img src="readme images/trial.png" alt="Logo" width="725">
+    </h1>
+<
 
 
 
