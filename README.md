@@ -31,7 +31,7 @@
     <li>
       <a href="#aim-of-project">Aim of project</a>
       <ul>
-        <li><a href="#evaluation-of-the-traits-of-an-indivisual">Evaluation of the traits of an individual</a></li>
+        <li><a href="#evaluation-of-the-traits-of-an-individual">Evaluation of the traits of an individual</a></li>
         <li><a href="#determinition-of-overall-personality">Determinition of overall personality</a></li>
       </ul>
     </li>
@@ -57,10 +57,10 @@
 ## About The Project
 * Face Recognition System built during the Microsoft Engage 2022. 
 * It deals with the application of the technology of the Face Recognition. 
-* It takes image of an indivisual as input , and tells their personality as an output.
+* It takes image of an individual as input , and tells their personality as an output.
 
 ### What is physiognomy
-* The art of discovering temperament and character from outward appearance of an indivisual.
+* The art of discovering temperament and character from outward appearance of an individual.
 <h1 align="center">
   
  <img src="readme images/physiognomy.jpeg" alt="Logo" width="325" height="325">
@@ -78,7 +78,7 @@ Using the latest technologies , I have linked the two worlds of Psychology and T
 
 ## Aim of project
 
-### Evaluation of the traits of an indivisual
+### Evaluation of the traits of an individual
 
 Based on the facial structure of the user , the traits of that person is evaluated. Total 5 traits are used -
 * Openness
