@@ -96,7 +96,7 @@ Above traits are evaluated , and on the basis of their percentages , an overall 
 
 
 ## Inputs taken by project
-The project evaluates on the following two criterias :
+The project evaluates on the following criterias :
 ### Basic Details
 Basic details like -
 * Age
