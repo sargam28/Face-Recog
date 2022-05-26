@@ -139,8 +139,6 @@ Basic details like -
 <h1 align="center">
  <img src="readme images/trial.png" alt="Logo" width="725">
     </h1>
-<
-
 
 
 
