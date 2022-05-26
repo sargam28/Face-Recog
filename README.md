@@ -1,5 +1,5 @@
 <h1 align="center">Microsoft Teams Clone 
-  <img src="![facerecogicon](https://user-images.githubusercontent.com/89294641/170477303-d3067da9-2e4b-44b8-94de-0622afa1f76a.jpeg)
+  <img src="[[![facerecogicon](https://user-images.githubusercontent.com/89294641/170477303-d3067da9-2e4b-44b8-94de-0622afa1f76a.jpeg)](https://github.com/sargam28/Face-Recog/blob/main/readme%20images/facerecogicon.jpeg)](https://www.google.com/imgres?imgurl=https%3A%2F%2Ficon-library.com%2Fimages%2Ffacial-recognition-icon%2Ffacial-recognition-icon-26.jpg&imgrefurl=https%3A%2F%2Ficon-library.com%2Ficon%2Ffacial-recognition-icon-26.html&tbnid=-jTAMZjRmyI49M&vet=12ahUKEwiQvoPkhP33AhWWgGMGHUv3A6AQMygeegUIARC1Ag..i&docid=lDFwwn1pjpkWAM&w=320&h=320&q=face%20recognition%20icon&ved=2ahUKEwiQvoPkhP33AhWWgGMGHUv3A6AQMygeegUIARC1Ag)
 " alt="Logo" width="25" height="25">
 </h1>
 
