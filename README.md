@@ -126,7 +126,11 @@ Basic details like -
  <img src="readme images/steps.png" alt="Logo" width="725">
     </h1>
 
+
+
 ### Illustrations
+
+As an illustration of our project , by hovering over the images of our fellow users , one can find how their personality has been deducted by our algorithm . 
 
 <h1 align="center">
  <img src="readme images/example.png" alt="Logo" width="725">
