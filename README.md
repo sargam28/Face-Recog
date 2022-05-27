@@ -7,7 +7,7 @@
      
     
 <p align="center">
- <a target="_blank" href="https://incomparable-bavarois-221fa2.netlify.app/worried.html">Link to the WebApp</a>
+ <a target="_blank" href="https://incomparable-bavarois-221fa2.netlify.app">Link to the WebApp</a>
     |
  <a target="_blank" href="https://youtu.be/Ojhgj7uGtnhZe2s">Video Demo</a>
 </p>
