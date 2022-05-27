@@ -45,6 +45,9 @@
         <li><a href="#steps-undertaken">Steps Undertaken</a></li>
         <li><a href="#illustrations">Illustrations</a></li>
         <li><a href="#trial">Trial</a></li>
+        <li><a href="#upload-picture">Upload Picture</a></li>
+        <li><a href="#choose-from-local-device">Choose from local Device</a></li>
+        <li><a href="#final-output">Final Output</a></li>     
       </ul>
     <li><a href="#resources-used">Resources Used</a></li>
   </ol>
@@ -143,8 +146,32 @@ As an illustration of our project , by hovering over the images of our fellow us
 <h1 align="center">
  <img src="readme images/trial.png" alt="Logo" width="725">
     </h1>
+    
+### Upload Picture
+Click on the upload Picture button
+<h1 align="center">
+  
+ <img src="readme images/upload.png" alt="Logo" width="725">
+    </h1>
+    You will get a choose file option
+    <h1 align="center">
+  Click on the upload Picture button
+ <img src="readme images/choose.png" alt="Logo" width="725">
+    </h1>
 
+### Choose from local device
+Choose image from local file .
 
+<h1 align="center">
+  
+ <img src="readme images/photo.png" alt="Logo" width="725">
+    </h1>
+
+### Final Output
+An output will be shown on the screen .
+<h1 align="center">
+ <img src="readme images/nature.png" alt="Logo" width="725">
+    </h1>
 
 ## Resources Used
 
