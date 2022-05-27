@@ -9,8 +9,7 @@
 <p align="center">
  <a target="_blank" href="https://incomparable-bavarois-221fa2.netlify.app">Link to the WebApp</a>
     |
- <a target="_blank" href="[https://youtu.be/Ojhgj7uGtnhZe2s](https://youtu.be/2Nrkp8X7wLQ
-https://youtu.be/2Nrkp8X7wLQ)">Video Demo</a>
+ <a target="_blank" href="https://www.youtube.com/watch?v=2Nrkp8X7wLQ&feature=youtu.be">Video Demo</a>
 </p>
 
 
