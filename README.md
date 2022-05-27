@@ -155,7 +155,7 @@ Click on the upload Picture button
     </h1>
     You will get a choose file option
     <h1 align="center">
-  Click on the upload Picture button
+  
  <img src="readme images/choose.png" alt="Logo" width="725">
     </h1>
 
